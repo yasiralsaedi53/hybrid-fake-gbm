@@ -14,7 +14,7 @@ The code reproduces every numerical result in the paper. This covers:
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/hybrid-fake-gbm.git
+git clone https://github.com/yasiralsaedi53/hybrid-fake-gbm.git
 cd hybrid-fake-gbm
 pip install -r requirements.txt
 ```
