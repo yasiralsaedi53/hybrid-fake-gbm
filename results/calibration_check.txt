@@ -1,0 +1,24 @@
+Implied volatilities (%) and max |IV - 20| / s.e. (400,000 paths, 500 steps)
+  kappa=1.25   q=0: max |IV-20| = 0.20 pts, max ratio to s.e. = 1.46, max regime-probability deviation = 0.021
+  kappa=1.25   q=2: max |IV-20| = 0.26 pts, max ratio to s.e. = 1.98, max regime-probability deviation = 0.016
+  kappa=1.5625 q=0: max |IV-20| = 0.16 pts, max ratio to s.e. = 1.14, max regime-probability deviation = 0.016
+  kappa=1.5625 q=2: max |IV-20| = 0.24 pts, max ratio to s.e. = 2.25, max regime-probability deviation = 0.008
+  kappa=2.25   q=0: max |IV-20| = 0.15 pts, max ratio to s.e. = 1.49, max regime-probability deviation = 0.018
+  kappa=2.25   q=2: max |IV-20| = 0.23 pts, max ratio to s.e. = 2.06, max regime-probability deviation = 0.008
+
+Figure 3 data (T = 1, kappa = 1.5625, q = 0): K, with leverage, same driver without leverage
+    70   20.04   20.94
+    75   20.03   20.52
+    80   20.03   20.17
+    85   20.03   19.89
+    90   20.03   19.70
+    95   20.03   19.59
+   100   20.02   19.55
+   105   20.01   19.57
+   110   20.00   19.65
+   115   20.00   19.77
+   120   19.99   19.94
+   125   19.99   20.14
+   130   20.00   20.35
+
+(run time 284 s)
